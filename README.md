@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## Istall Node Modules
+
+In terminal write "npm i" to load node modules, it will take some time. After that write "npm start" to run the project on Browser.
+
 ### `npm start`
 
 Runs the app in the development mode.\
